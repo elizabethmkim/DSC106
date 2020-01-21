@@ -1,0 +1,137 @@
+h1 {
+    font-family: 'Paytone One', sans-serif;
+    font-size: 1vw;
+ }
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1vw;
+}
+
+.responsive{
+    width: 18%;
+    height: auto;
+
+}
+div.Title{
+    font-size: 3vw;
+}
+.container{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     width: 100%;
+     height: auto;
+    
+ }
+
+.box.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    height: auto;
+    font-size: 2vw;
+
+}
+.box{
+    padding: .5rem;
+    height: 10 px;
+    border-radius: 4px;
+}
+table{
+    width: 80%;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1vw;
+
+
+}
+.order1 h3{
+    text-align: center;
+    font-size: 1vw;
+}
+
+table.myFormat td,tr {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1vw;
+    text-align: center;
+    padding: 0px;
+}
+
+tr :nth-child(1){
+    background-color:  rgba(164, 166, 160, 0.5);
+    
+}
+#grey{
+    background-color : white;
+    font-size: 1vw;
+}
+
+.box.flex2{
+    display: flex;
+    justify-content: center;
+    color: blue
+} 
+div.ding1{
+    font-size: 5000px;
+    text-align: center;
+}
+div.sales1{
+    font-size: 2vw;
+    text-align: center;
+}
+div.wid1{
+    font-size: 2vw;
+    text-align: center;
+}
+.dollar{
+    color: blue;
+    font-size: 2vw;
+}
+
+.Source2{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 1vw;
+}
+
+
+.col1{
+
+    width: 100%;
+    height:auto;
+    color: gray;
+    text-align: center;
+    font-size: 1vw;
+    flex-basis: 30%;
+}
+.col2{
+
+    width: 100%;
+    height:auto;
+    color: gray;
+    text-align: center;
+    font-size: 1vw;
+    flex-basis: 30%;
+}
+img { 
+    width: 100%;
+    height:auto;
+}
+.Ordering{
+    font-size: 1vw;
+    font-family: 'Montserrat', sans-serif;
+}
+address{
+    font-size: 1vw;
+    font-family: 'Montserrat', sans-serif;
+}
+.first0{
+    color: blue;
+    font-size: 2vw;
+}
+.second0{
+    color: blue;
+    font-size: 2vw;
+}
